@@ -13,7 +13,7 @@
 - [未初始化的存储指针](./vulnerabilities/uninitialized-storage-pointer.md)
 - [断言违规](./vulnerabilities/assert-violation.md)
 - [使用已弃用的函数](./vulnerabilities/use-of-deprecated-functions.md)
-- [对不可信的被调用者执行](./vulnerabilities/delegatecall-untrusted-callee.md)
+- [对不可信的被调用者执行](./vulnerabilities/delegatecall-untrusted-callee_cn.md)
 - [签名可塑性](./vulnerabilities/signature-malleability.md)
 - [构造函数名称错误](./vulnerabilities/incorrect-constructor.md)
 - [状态变量遮蔽](./vulnerabilities/shadowing-state-variables.md)
